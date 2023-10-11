@@ -1,4 +1,4 @@
-from interqu import doubly_linked_list as dll
+from l33t import doubly_linked_list as dll
 
 
 def test_creation():
