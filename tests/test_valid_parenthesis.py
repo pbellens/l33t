@@ -1,4 +1,4 @@
-from interqu import valid_parenthesis as t
+from l33t import valid_parenthesis as t
 
 def test_01():
     assert(t.valid_parenthesis('()') == True)
