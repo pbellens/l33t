@@ -1,4 +1,4 @@
-from interqu import singly_linked_list as t
+from l33t import singly_linked_list as t
 
 
 def test_empty():
