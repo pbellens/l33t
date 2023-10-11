@@ -1,4 +1,4 @@
-from interqu import valid_anagram as t
+from l33t import valid_anagram as t
 
 
 def test_01():
