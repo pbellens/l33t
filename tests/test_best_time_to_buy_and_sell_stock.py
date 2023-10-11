@@ -1,4 +1,4 @@
-from interqu import best_time_to_buy_and_sell_stock as t
+from l33t import best_time_to_buy_and_sell_stock as t
 
 
 def test_01(): 
