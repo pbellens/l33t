@@ -1,4 +1,4 @@
-from interqu import pi
+from l33t import pi
 
 
 def test_100it():
