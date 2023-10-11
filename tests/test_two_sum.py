@@ -1,4 +1,4 @@
-from interqu import two_sum
+from l33t import two_sum
 
 
 def test_01():
