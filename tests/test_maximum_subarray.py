@@ -1,4 +1,4 @@
-from interqu import maximum_subarray as t
+from l33t import maximum_subarray as t
 
 
 def test_01():
