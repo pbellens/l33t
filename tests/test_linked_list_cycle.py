@@ -1,5 +1,5 @@
-from interqu import linked_list_cycle as t
-from interqu import singly_linked_list as l
+from l33t import linked_list_cycle as t
+from l33t import singly_linked_list as l
 
 
 def test_01():
