@@ -1,4 +1,4 @@
-from interqu import merge_intervals as t
+from l33t import merge_intervals as t
 
 
 def test_01():
