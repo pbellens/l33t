@@ -1,4 +1,4 @@
-from interqu import jump_game as t
+from l33t import jump_game as t
 
 
 def test_01():
