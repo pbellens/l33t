@@ -1,5 +1,5 @@
-from interqu import swap_nodes_in_pairs as t
-from interqu import singly_linked_list as sll
+from l33t import swap_nodes_in_pairs as t
+from l33t import singly_linked_list as sll
 
 
 def test_01():
