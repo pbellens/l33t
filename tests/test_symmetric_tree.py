@@ -1,5 +1,5 @@
-from interqu import symmetric_tree as t
-from interqu import binary_tree as bt
+from l33t import symmetric_tree as t
+from l33t import binary_tree as bt
 
 
 def test_01():
