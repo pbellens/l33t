@@ -1,4 +1,4 @@
-from interqu import sliding_window_maximum as t
+from l33t import sliding_window_maximum as t
 
 
 def test_01():
