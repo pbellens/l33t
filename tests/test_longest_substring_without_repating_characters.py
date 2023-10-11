@@ -1,4 +1,4 @@
-from interqu import longest_substring_without_repeating_characters as t
+from l33t import longest_substring_without_repeating_characters as t
 
 def test_01():
     assert(t.longest_substring('abcabcbb') == 3)
