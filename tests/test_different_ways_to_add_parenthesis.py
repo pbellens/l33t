@@ -1,4 +1,4 @@
-from interqu import different_ways_to_add_parenthesis as t
+from l33t import different_ways_to_add_parenthesis as t
 
 
 def test_01():
