@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "interqu"
+name = "l33t"
 version = "0.1.0"
 description = ""
-authors = ["pbellens@gmail.com"]
+authors = ["Pieter <pbellens@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
